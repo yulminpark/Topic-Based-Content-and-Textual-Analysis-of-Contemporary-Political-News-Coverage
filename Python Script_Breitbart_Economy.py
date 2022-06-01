@@ -1,5 +1,5 @@
 ### Python Coding Script ###
-### Topic-Based Content and Textual Analysis of Contemporary News Coverage in Politics ###
+### Topic-Based Content and Textual Analysis of Contemporary Political News Coverage
 ### Web-crawling: "Economy" section in Breitbart
 
 import urllib.request, sys, time
